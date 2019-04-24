@@ -3323,6 +3323,7 @@ python-qt5-bindings-webkit:
     xenial: [python-pyqt5.qtwebkit]
     yakkety: [python-pyqt5.qtwebkit]
     zesty: [python-pyqt5.qtwebkit]
+  slackware: [pyqt5]
 python-qwt5-qt4:
   arch: [pyqwt]
   debian: [python-qwt5-qt4]
@@ -4637,6 +4638,7 @@ python-wxtools:
   freebsd: [py27-wxPython30]
   gentoo: [dev-python/wxpython]
   ubuntu: [python-wxtools]
+  slackware: [wxpython]
 python-xdot:
   debian: [xdot]
   fedora: [python-xdot]

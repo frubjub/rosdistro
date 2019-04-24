@@ -1039,6 +1039,7 @@ google-mock:
   opensuse: [gmock-devel]
   rhel: [gmock-devel]
   ubuntu: [google-mock]
+  slackware: [gtest] 
 gperftools:
   debian: [google-perftools, libgoogle-perftools-dev]
   fedora: [gperftools, gperftools-devel]
@@ -3566,6 +3567,7 @@ libwebp-dev:
   fedora: [libwebp-devel]
   gentoo: [media-libs/libwebp]
   ubuntu: [libwebp-dev]
+  slackware: [libwebp]
 libwebsocketpp-dev:
   arch: [websocketpp]
   debian: [libwebsocketpp-dev]
@@ -5036,6 +5038,7 @@ tinyxml2:
   opensuse: [tinyxml2-devel]
   rhel: [tinyxml2-devel]
   ubuntu: [libtinyxml2-dev]
+  slackware: [tinyxml2]
 tix:
   arch: [tix]
   debian: [tix]
